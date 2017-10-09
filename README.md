@@ -17,6 +17,10 @@ Clone the repo : https://github.com/vikpande/react-todo-app.git
 
  this installs all the dependencies for the app
 
+ Docker instrcutions here :
+
+ //to be updated 
+
 ## Starting the application
 
  - go to the right directory (`cd react-todo-app`)
